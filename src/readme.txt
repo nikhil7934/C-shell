@@ -6,7 +6,7 @@ RUN "make" to compile all the programs
 |
 |---> Then run "./shell"  to start the shell
 |
-|---> Use "Quit" or "quit" to come out of the shell
+|---> Use "quit" to come out of the shell
 
 builtin.c :
 
